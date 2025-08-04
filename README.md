@@ -3,7 +3,7 @@
 Projeto #boraCodar da Rocketseat | Desafio#01
 
 ---
-Tecnologias e Ferramentas utilizadas:
+### Tecnologias e Ferramentas utilizadas:
 
 <a href="https://www.fronteditor.dev/"> fronteditor.dev</a>
 
